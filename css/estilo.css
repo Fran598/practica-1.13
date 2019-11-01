@@ -1,20 +1,19 @@
-body {
+body{
 
-background-color: #DEBABA;
+background-color: #F2DDCD;
 
 
 }
 
-
-
-h1 {
+h1{
 
 color:brown;
 font-family: Arial, Helvetica, sans-serif;
+text-align: center;
 
 }
 
-#encabezado {
+#encabezado{
 
 color:brown;
 font-family: Arial, Helvetica, sans-serif;
@@ -24,33 +23,45 @@ font-family: Arial, Helvetica, sans-serif;
 
  text-align: center;
 
-
 }
 
 .izquierda{
 
     text-align: left;
    
-   }
+}
 
 
 .derecha{
 
     text-align: right;
    
-   }
+}
 
 
-ul {
+ul{
 
 list-style: none;
 
 }
 
-a {
+a{
 
 font-size: 30px;
+
+}
+
+p{
+
+color: #CA2B2B;
+font-weight: bold;
 
 
 }
 
+div {
+
+  border-right: 1px solid black;
+  width: 100;
+  Height :400px
+}
